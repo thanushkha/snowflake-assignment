@@ -70,15 +70,3 @@ Steps performed:
 4. Identified deleted records using Time Travel
 5. Recovered the deleted records
 6. Verified the recovered data
-
-## 📂 Repository Structure
-
-```text
-snowflake-assignment/
-│
-├── question 1.ipynb
-├── question 2.ipynb
-├── question 3.ipynb
-├── question 4.ipynb
-├── question 5.ipynb
-└── README.md
